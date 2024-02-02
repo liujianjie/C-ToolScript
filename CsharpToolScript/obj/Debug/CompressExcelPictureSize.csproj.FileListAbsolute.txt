@@ -1,0 +1,9 @@
+G:\workspace\2.workProject\CompressExcelPictureSize\CompressExcelPictureSize\bin\Debug\CompressExcelPictureSize.exe.config
+G:\workspace\2.workProject\CompressExcelPictureSize\CompressExcelPictureSize\bin\Debug\CompressExcelPictureSize.exe
+G:\workspace\2.workProject\CompressExcelPictureSize\CompressExcelPictureSize\bin\Debug\CompressExcelPictureSize.pdb
+G:\workspace\2.workProject\CompressExcelPictureSize\CompressExcelPictureSize\bin\Debug\Aspose.Cells.dll
+G:\workspace\2.workProject\CompressExcelPictureSize\CompressExcelPictureSize\obj\Debug\CompressExcelPictureSize.csproj.AssemblyReference.cache
+G:\workspace\2.workProject\CompressExcelPictureSize\CompressExcelPictureSize\obj\Debug\CompressExcelPictureSize.csproj.CoreCompileInputs.cache
+G:\workspace\2.workProject\CompressExcelPictureSize\CompressExcelPictureSize\obj\Debug\CompressExcelPictureSize.csproj.CopyComplete
+G:\workspace\2.workProject\CompressExcelPictureSize\CompressExcelPictureSize\obj\Debug\CompressExcelPictureSize.exe
+G:\workspace\2.workProject\CompressExcelPictureSize\CompressExcelPictureSize\obj\Debug\CompressExcelPictureSize.pdb

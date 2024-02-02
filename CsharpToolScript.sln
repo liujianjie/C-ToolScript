@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpToolScript", "CsharpToolScript\CsharpToolScript.csproj", "{D26FC1E2-8B3D-45B3-BD70-335045CB3D9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D26FC1E2-8B3D-45B3-BD70-335045CB3D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26FC1E2-8B3D-45B3-BD70-335045CB3D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26FC1E2-8B3D-45B3-BD70-335045CB3D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26FC1E2-8B3D-45B3-BD70-335045CB3D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6B7930B-6720-41B0-A0CA-F776EB9B089F}
+	EndGlobalSection
+EndGlobal
